@@ -84,10 +84,16 @@ We used the [IMDb India Movies Dataset](https://www.kaggle.com/datasets/sagnik15
 
 
 pip install pandas numpy scikit-learn matplotlib seaborn sentence-transformers
+
 📈 Model Performance
+
+
 Metric	Value
+
 MAE	~1.04
+
 RMSE	~1.29
+
 R²	~0.10
 
 ---
