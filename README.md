@@ -82,7 +82,7 @@ We used the [IMDb India Movies Dataset](https://www.kaggle.com/datasets/sagnik15
 
 ## 📦 Requirements
 
-```bash
+
 pip install pandas numpy scikit-learn matplotlib seaborn sentence-transformers
 📈 Model Performance
 Metric	Value
