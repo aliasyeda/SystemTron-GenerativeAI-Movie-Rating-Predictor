@@ -64,7 +64,7 @@ We used the [IMDb India Movies Dataset](https://www.kaggle.com/datasets/sagnik15
 
 ## 📊 Sample Output
 
-![Scatter Plot](./Scatter.plot.png)
+Scatter plot.png (Check in the repository)
 
 - Each dot represents a movie.
 - Red line = ideal prediction (perfect match).
