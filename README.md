@@ -99,6 +99,11 @@ R²	~0.10
 
 ---
 
+ **Note**: The trained model file (`movie_rating_predictor.pkl`) is not uploaded here due to GitHub file size limitations.
+ If needed, it can be shared via Google Drive upon request.
+
+---
+
 🧠 Future Improvements
 
 Try using deeper transformer models like BERT or GPT.
